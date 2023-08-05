@@ -1,0 +1,13 @@
+.black, .yellow {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
+
+.yellow {
+    background-color: yellow;
+}
